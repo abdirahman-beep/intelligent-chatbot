@@ -1,0 +1,16 @@
+{
+  "faqs": [
+    {
+      "question": "What is the purpose of this chatbot?",
+      "answer": "The chatbot is designed to assist users in finding information quickly and efficiently."
+    },
+    {
+      "question": "How can I reset my password?",
+      "answer": "You can reset your password by clicking on the 'Forgot Password' link on the login page."
+    },
+    {
+      "question": "Where can I find support?",
+      "answer": "Support can be found on our support page, where you can submit tickets and view FAQs."
+    }
+  ]
+}
